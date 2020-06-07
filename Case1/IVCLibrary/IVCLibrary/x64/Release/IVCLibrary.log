@@ -1,0 +1,42 @@
+﻿  Image.cpp
+  Library.cpp
+Library.cpp(90): warning C4018: '<': signed/unsigned 不相符
+Library.cpp(92): warning C4018: '<': signed/unsigned 不相符
+Library.cpp(169): warning C4018: '<': signed/unsigned 不相符
+Library.cpp(171): warning C4018: '<': signed/unsigned 不相符
+Library.cpp(198): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(199): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(200): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(201): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(203): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(204): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(205): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(206): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(216): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Library.cpp(223): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+Library.cpp(224): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+Library.cpp(292): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(293): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(294): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(295): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(297): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(298): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(299): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(300): warning C4244: '正在初始化': 將 'C_FLOAT' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(311): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Library.cpp(322): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+Library.cpp(323): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+Library.cpp(946): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+Library.cpp(992): warning C4018: '<': signed/unsigned 不相符
+Library.cpp(1081): warning C4244: '正在初始化': 將 'const float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(1082): warning C4244: '正在初始化': 將 'const float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(1113): warning C4244: '正在初始化': 將 'const float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Library.cpp(1114): warning C4244: '正在初始化': 將 'const float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     正在建立程式庫 D:\VisualStudio\VisualStudioProject\IVCLibrary\x64\Release\IVCLibrary.lib 和物件 D:\VisualStudio\VisualStudioProject\IVCLibrary\x64\Release\IVCLibrary.exp
+  正在產生程式碼
+  23 of 540 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  IVCLibrary.vcxproj -> D:\VisualStudio\VisualStudioProject\IVCLibrary\x64\Release\IVCLibrary.dll
+  IVCLibrary.vcxproj -> D:\VisualStudio\VisualStudioProject\IVCLibrary\x64\Release\IVCLibrary.pdb (Full PDB)

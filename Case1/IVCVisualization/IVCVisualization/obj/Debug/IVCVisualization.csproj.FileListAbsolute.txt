@@ -1,0 +1,10 @@
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\bin\Debug\IVCVisualization.exe.config
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\bin\Debug\IVCVisualization.exe
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\bin\Debug\IVCVisualization.pdb
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\obj\Debug\IVCVisualization.Properties.Resources.resources
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\obj\Debug\IVCVisualization.csproj.GenerateResource.Cache
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\obj\Debug\IVCVisualization.exe
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\obj\Debug\IVCVisualization.pdb
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\obj\Debug\IVCVisualization.Form1.resources
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\obj\Debug\IVCVisualization.ImageForm.resources
+D:\VisualStudio\VisualStudioProject\IVCVisualization\IVCVisualization\obj\Debug\IVCVisualization.csprojResolveAssemblyReference.cache
