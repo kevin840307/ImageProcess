@@ -1,0 +1,31 @@
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 0 1 "C:\Users\USER\Desktop\Lena.jpg" 6 //cvtColor
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 1 1 "C:\Users\USER\Desktop\Lena.jpg" 3 //dilate
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 2 1 "C:\Users\USER\Desktop\Lena.jpg" 3 //erode
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 3 1 "C:\Users\USER\Desktop\Lena.jpg" 9 //blur
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 4 1 "C:\Users\USER\Desktop\Lena.jpg" 9 //GaussianBlur
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 5 1 "C:\Users\USER\Desktop\Lena.jpg" 3 //medianBlur
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 6 1 "C:\Users\USER\Desktop\Lena.jpg" 127 //threshold
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 7 0 "C:\Users\USER\Desktop\Lena.jpg" //threshold_otsu
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 8 1 "C:\Users\USER\Desktop\Lena.jpg" 50 150 3 //Canny
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 9 1 "C:\Users\USER\Desktop\Lena.jpg" 3 //Sobel
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 10 1 "C:\Users\USER\Desktop\Lena.jpg" 3 //Laplacian
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 11 1 "C:\Users\USER\Desktop\Lena.jpg"  //equalizeHist
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 12 1 "C:\Users\USER\Desktop\Lena.jpg"  //Laplace
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 13 1 "C:\Users\USER\Desktop\Lena.jpg" 0.8 //LogTransformation
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 14 1 "C:\Users\USER\Desktop\Lena.jpg" 0.8 //GammaCorrection
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 15 1 "C:\Users\USER\Desktop\Lena.jpg" 500 400 //HistVisualization
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 16 1 "C:\Users\USER\Desktop\Lena.jpg" 0 //flip
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 17 1 "C:\Users\USER\Desktop\Lena.jpg" 300 200 1 //flip
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 18 1 "C:\Users\USER\Desktop\Lena.jpg" 45 //rotate
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 19 1 "C:\Users\USER\Desktop\Lena.jpg" 10 20 //translate
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 20 1 "C:\Users\USER\Desktop\Lena.jpg" //OriginalLBP
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 21 1 "C:\Users\USER\Desktop\Lena.jpg" 1 //CircularLBP
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 22 1 "C:\Users\USER\Desktop\Lena.jpg" 1 //InvariantLBP
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 23 1 "C:\Users\USER\Desktop\Lena.jpg" 1 //EquivalentLBP
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 24 1 "C:\Users\USER\Desktop\Lena.jpg" 3 // MultiScaleBlockLBP
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 25 1 "C:\Users\USER\Desktop\Lena.jpg" 3 //SEMultiScaleBlockLBP
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 26 1 "C:\Users\USER\Desktop\Lena.jpg" 8 //HOG
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 27 1 "C:\Users\USER\Desktop\Lena.jpg" 0.5 300 500 //felzenszwalb
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 28 1 "C:\Users\USER\Desktop\Lena.jpg" 0.8 500 500 //SelectiveSearch
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 29 1 "C:\Users\USER\Desktop\Lena.jpg" 10 0 //HoughLinesP
+"D:\VisualStudio\VisualStudioProject\CVC\x64\Debug\CVC.exe" 30 1 "C:\Users\USER\Desktop\Lena.jpg" 30 0 0 // HoughCircles
